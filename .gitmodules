@@ -1,0 +1,12 @@
+[submodule "xerces-c"]
+	path = xerces-c
+	url = https://github.com/apache/xerces-c.git
+[submodule "pugixml"]
+	path = pugixml
+	url = https://github.com/zeux/pugixml.git
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "rapidxml"]
+	path = rapidxml
+	url = https://github.com/dwd/rapidxml.git
